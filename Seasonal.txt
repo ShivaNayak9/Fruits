@@ -15,3 +15,9 @@ Banana
 Cranberries
 
 Many more
+
+
+Regular
+Apple
+Banana
+Grapes
